@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**Jibrilidrissi/Jibrilidrissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jibril, a full-stack developer based in the Netherlands.
 
-Here are some ideas to get you started:
+I build web apps and interfaces I actually want to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea keeps me up at night, chances are I'll build it and ship it.
+
+My main tech stack is JavaScript, Node.js, HTML5/CSS3, and SQL. My favorite tools are VS Code, Figma, and Git for everything in between.
+
+I've got a few pinned projects, but my favorite is Stick Run — a 2D browser platformer built from scratch.
+
+I'm currently studying Creative Software Developer at MBO Rijnland, sharpening the same discipline I bring to the mat.
+
+Fun Facts:
+
+I have 2 cats
+I train Muay Thai
+Favorite series: Avatar: The Last Airbender
+Hobbies: coding, Muay Thai, Calisthenics
